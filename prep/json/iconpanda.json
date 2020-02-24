@@ -1,19 +1,19 @@
 {
-    "representative": {
-	"logo": {
-	    "logo_200": "https://iconpanda.github.io/images/logo.png"
-	},
-	"media": {
-	    "twitter": "https://twitter.com/iconpanda1",
-	    "github": "https://iconpanda.github.io/"
-	}
+  "representative": {
+    "logo": {
+      "logo_200": "https://iconpanda.github.io/images/logo.png"
     },
-    "server": {
-	"location": {
-	    "country": "USA",
-	    "city": "San Jose"
-	},
-	"server_type": "cloud",
-	"api_endpoint": "157.245.237.179:9000"
+    "media": {
+      "twitter": "https://twitter.com/iconpanda1",
+      "github": "https://github.com/iconpanda
     }
+  },
+  "server": {
+    "location": {
+        "country": "USA",
+        "city": "San Jose"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "157.245.237.179:9000"
+  }
 }
